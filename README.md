@@ -12,19 +12,7 @@ I build deep learning systems that solve real-world problems — from detecting 
 
 - 🔭 Currently working on spatiotemporal deep learning for video understanding
 - 🌱 Exploring LLMs, Hugging Face transformers, and multimodal AI
-- 📄 Published researcher at **IEEE I2ITCON Conference, IIIT Pune**
 - 📍 Kakinada, Andhra Pradesh, India
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [TAG-Net: Violence Detection](https://github.com/Karthikkosuri/Temporal_Attention_Gate_Network_For_Violence_Detection) | 3D CNN + Temporal Attention Gate + Bi-LSTM for surveillance video analysis. **95% accuracy** on benchmark datasets. | PyTorch, 3D CNN, Bi-LSTM, OpenCV |
-| [INSAT Cyclone Detection](https://github.com/Karthikkosuri/INSAT_SATELLITE_CYCLONE_DETECTION) | Deep learning system for tropical cyclone intensity estimation from IR satellite imagery. Compared CNN, Xception, MobileNetV2. | TensorFlow, MobileNetV2, CNN |
-| [Human Pose-Driven Fight Detection](https://github.com/Karthikkosuri/Human_Pose-Driven_Fight_Detection-) | Real-time fight detection using MediaPipe skeletal pose estimation + LSTM. IEEE published work. | MediaPipe, LSTM, Random Forest, OpenCV |
-| [Drowsiness Detection](https://github.com/Karthikkosuri/machine-learning) | CNN-based real-time driver fatigue monitoring via facial feature analysis (eye closure, yawning, head movement). | CNN, TensorFlow, OpenCV |
 
 ---
 
