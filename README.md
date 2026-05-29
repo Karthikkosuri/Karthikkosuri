@@ -28,13 +28,6 @@ I build deep learning systems that solve real-world problems — from detecting 
 
 ---
 
-## 📄 Publication
-
-**Human Pose-Driven Fight Detection Using Random Forest and LSTM Architectures**
-*IEEE I2ITCON Conference, IIIT Pune · 2025*
-🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/11210750)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -65,19 +58,6 @@ I build deep learning systems that solve real-world problems — from detecting 
 
 ---
 
-## 🎓 Education
-
-- **M.Tech – Artificial Intelligence & Machine Learning** | Lovely Professional University | CGPA: 7.50 *(2024 – Present)*
-- **B.Tech – Computer Science & Engineering** | Vel Tech University, Chennai | CGPA: 7.8 *(2019 – 2023)*
-
----
-
-## 📜 Certifications
-
-- NPTEL — Data Analytics with Python
-- Coursera / IBM — Machine Learning
-
----
 
 ## 📬 Connect With Me
 
