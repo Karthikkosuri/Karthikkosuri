@@ -13,7 +13,7 @@ I build deep learning systems that solve real-world problems — from detecting 
 - 🔭 Currently working on spatiotemporal deep learning for video understanding
 - 🌱 Exploring LLMs, Hugging Face transformers, and multimodal AI
 - 📄 Published researcher at **IEEE I2ITCON Conference, IIIT Pune**
-- 📍 Andhra Pradesh, India
+- 📍 Kakinada, Andhra Pradesh, India
 
 ---
 
