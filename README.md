@@ -10,7 +10,7 @@ M.Tech in AI & ML @ Lovely Professional University | Published IEEE Researcher |
 
 I build deep learning systems that solve real-world problems — from detecting violence in surveillance footage to estimating cyclone intensity from satellite imagery.
 
-- 🔭 Currently working on spatiotemporal deep learning for video understanding
+- 🔭 Currently working on deep learning models and data analytics
 - 🌱 Exploring LLMs, Hugging Face transformers, and multimodal AI
 - 📍 Kakinada, Andhra Pradesh, India
 
