@@ -76,7 +76,6 @@ I build deep learning systems that solve real-world problems — from detecting 
 
 - NPTEL — Data Analytics with Python
 - Coursera / IBM — Machine Learning
-- AICTE — Palo Alto Networks Cybersecurity Academy
 
 ---
 
